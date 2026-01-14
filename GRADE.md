@@ -6,17 +6,19 @@
 
 ##  Grade Summary
 
+
+
 | Coursework         |  Weight | Score (%) | Weighted Score |
 |--------------------|---------|-----------|----------------|
-|Class Participation |   10%   |           |                |
+| Class Participation|  10%    |           |                |
 | Assignment 0       |   4%    |           |                |
 | Assignment 1       |   6%    |           |                |
 | Quiz 1             |   4%    |           |                |
-| Assignment 2       |   10%   |           |                |
-| Assignment 3       |   12%   |           |                |
+| Assignment 2       |  10%    |      73.0 |                |
+| Assignment 3       |  12%    |           |                |
 | Test I             |   6%    |           |                |
-| Assignment 4       |   13%   |           |                |
-| Assignment 5       |   14%   |           |                |
+| Assignment 4       |  13%    |           |                |
+| Assignment 5       |  14%    |           |                |
 | Test II            |   6%    |           |                |
-| Assignment 6       |   15%   |           |                |
-| **Total**          | **100%**|           | **/100**       |
+| Assignment 6       |  15%    |           |                |
+| **Total**          | **100%**|  **24.33**|   **14.60/60** |
