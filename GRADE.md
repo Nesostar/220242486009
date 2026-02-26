@@ -20,5 +20,5 @@
 | Assignment 3       |  13%    |           |                |                                              |
 | Assignment 4       |  13%    |      91.7 |                | High Similarities                            |
 | Test II            |  15%    |           |                |                                              |
-| Assignment 5       |   6%    |           |                |                                              |
-| **Total**          | **100%**|  **27.86**|   **16.71/60** |                                              |
+| Assignment 5       |   6%    |     100.0 |                |                                              |
+| **Total**          | **100%**|  **33.63**|   **20.18/60** |                                              |
