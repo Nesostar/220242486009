@@ -10,15 +10,15 @@
 
 | Coursework         |  Weight | Score (%) | Weighted Score |                   Remarks                    |
 |--------------------|---------|-----------|----------------|----------------------------------------------|
-| Class Participation|  10%    |           |                |                                              |
+| Class Participation|  10%    |     100.0 |                |                                              |
 | Assignment 0       |   4%    |           |                |                                              |
 | Assignment 1       |   6%    |           |                |                                              |
 | Quiz 1             |   4%    |           |                |                                              |
 | Assignment 2       |  10%    |      73.0 |                |                                              |
 | Quiz 2             |   4%    |           |                |                                              |
-| Test I             |  15%    |           |                |                                              |
+| Test I             |  15%    |      40.0 |                |                                              |
 | Assignment 3       |  13%    |           |                |                                              |
 | Assignment 4       |  13%    |      91.7 |                | High Similarities                            |
-| Test II            |  15%    |           |                |                                              |
+| Test II            |  15%    |      31.0 |                |                                              |
 | Assignment 5       |   6%    |     100.0 |                |                                              |
-| **Total**          | **100%**|  **33.63**|   **20.18/60** |                                              |
+| **Total**          | **100%**|  **46.00**|   **28.00/60** |                                              |
